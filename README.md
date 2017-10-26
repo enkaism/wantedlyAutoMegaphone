@@ -5,6 +5,8 @@
 
 1. clone
 ```
+$ brew install chromedriver
+$ go get github.com/sclevine/agouti
 $ git clone https://github.com/enkaism/wantedlyAutoMegaphone
 $ cd wantedlyAutoMegaphone
 ```
